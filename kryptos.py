@@ -164,7 +164,7 @@ def extract_text_from_pdf(pdf_file) -> str:
 
 def main():
     # Logo
-    st.sidebar.image("https://cdn.midjourney.com/d6153443-45de-426e-93a3-fbaa58b3b9fc/0_1.png", width=200)
+    st.sidebar.image("https://cdn.midjourney.com/152d6718-a07d-443f-9a33-ea0ee9b84cf0/0_3.png", width=200)
 
     st.title('Kryptos: Removedor de Dados Sensíveis para Documentos Judiciais')
 
