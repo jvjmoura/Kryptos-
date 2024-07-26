@@ -1,0 +1,24 @@
+# Kryptos Requirements
+# Python version: 3.8+
+
+# Web Application Framework
+streamlit==1.22.0
+
+# Natural Language Processing
+spacy==3.5.3
+pt_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.5.0/pt_core_news_sm-3.5.0-py3-none-any.whl
+
+# PDF Processing
+PyMuPDF==1.22.3
+
+# Data Processing and Analysis
+numpy==1.24.3
+pandas==2.0.2
+
+# Regular Expressions
+regex==2023.6.3
+
+# Optional: for development and testing
+pytest==7.3.1
+black==23.3.0
+flake8==6.0.0
